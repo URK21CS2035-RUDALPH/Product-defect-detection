@@ -39,7 +39,7 @@ Image Upload → Image Preprocessing → YOLOv8 Detection → Result Display (We
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/defect-detection-yolov8.git
+   git clone https://github.com/URK21CS2035-RUDALPHS/Product-defect-detection.git
    cd defect-detection-yolov8
 pip install -r requirements.txt
 
