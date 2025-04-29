@@ -1,0 +1,12 @@
+folders:
+  dataset: datasets
+  output: outputs
+  static: static
+  upload: uploads
+model:
+  trained_yolo: outputs\best.pt
+  yolo_pretrained: yolov8n.pt
+training:
+  batch_size: 16
+  epochs: 2
+  image_size: 640
